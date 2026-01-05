@@ -7,5 +7,9 @@
 <https://www.figma.com/design/ZJJvQi5lJJYeRWOkvTuoRn/Untitled?node-id=1-3&t=fLrMttl7FEFQgj6x-1>
 ## Assignment 4 - Low Fidelity - Figma Link
 <https://www.figma.com/design/ZJJvQi5lJJYeRWOkvTuoRn/Untitled?node-id=1-4&t=fLrMttl7FEFQgj6x-1>
+## Assignment 5 - Spacing & Grids - Figma Link
+<https://www.figma.com/design/ZJJvQi5lJJYeRWOkvTuoRn/Assignments?node-id=1-5&t=fLrMttl7FEFQgj6x-1>
 ## Assignment 6 - Typography - Figma Link
 <https://www.figma.com/design/ZJJvQi5lJJYeRWOkvTuoRn/Untitled?node-id=1-6&t=fLrMttl7FEFQgj6x-1>
+## Assignment 7 - Color - Figma Link
+<https://www.figma.com/design/ZJJvQi5lJJYeRWOkvTuoRn/Assignments?node-id=1-7&t=fLrMttl7FEFQgj6x-1>
