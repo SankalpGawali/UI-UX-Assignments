@@ -13,3 +13,5 @@
 <https://www.figma.com/design/ZJJvQi5lJJYeRWOkvTuoRn/Untitled?node-id=1-6&t=fLrMttl7FEFQgj6x-1>
 ## Assignment 7 - Color - Figma Link
 <https://www.figma.com/design/ZJJvQi5lJJYeRWOkvTuoRn/Assignments?node-id=1-7&t=fLrMttl7FEFQgj6x-1>
+## Assignment 8 - Intro To Figma - Figma Link
+<https://www.figma.com/design/ZJJvQi5lJJYeRWOkvTuoRn/Assignments?node-id=28-1487&t=fLrMttl7FEFQgj6x-1>
