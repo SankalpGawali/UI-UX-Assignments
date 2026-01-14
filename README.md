@@ -15,3 +15,5 @@
 <https://www.figma.com/design/ZJJvQi5lJJYeRWOkvTuoRn/Assignments?node-id=1-7&t=fLrMttl7FEFQgj6x-1>
 ## Assignment 8 - Intro To Figma - Figma Link
 <https://www.figma.com/design/ZJJvQi5lJJYeRWOkvTuoRn/Assignments?node-id=28-1487&t=fLrMttl7FEFQgj6x-1>
+## Assignment 4 - High Fidelity - Figma Link
+<https://www.figma.com/design/Hpbc9F3QnejwU5WRkppDml/Assignment?node-id=1-24&t=H4mQXnEHvFimR1kk-1>
